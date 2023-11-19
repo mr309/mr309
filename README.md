@@ -7,7 +7,9 @@ https://github.com/mr309/mr309/assets/65901568/9e6018e5-7079-41b3-9d27-e002b2a71
 ## [MGSR Team Up Results Utility](https://mr309.github.io/MGSR-TeamUp/mgsr/)
 Web tool built with HTML, CSS, and JavaScript to aid game results entry with the TeamUp bot, which has its own syntax using Discord /slash commands. This tool uses a JavaScript form that takes in player names and their placements, then outputs a properly-formatted /slash command to input into the TeamUp bot in Discord. The web tool ensured consistency in recording game results because it eliminated potential errors when typing the /slash command manually. The tool initially had drop-downs and predictive search boxes for usernames, but I later added a text input which would take user-reported results and recognized the placements and players' names. This input used fuzzy matching for names and would recognize different placement number styles (e.g. #1, 1), 1 , (1), etc.)
 
-https://github.com/mr309/mr309/assets/65901568/def02d4d-ea03-462d-941a-a51fb7b50aeb
+Manual entry                                                                               |  Auto-parse 
+:-----------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:
+![](https://github.com/mr309/mr309/assets/65901568/16b89626-e09b-499a-8a92-c83c1a01adc9)   |  ![](https://github.com/mr309/mr309/assets/65901568/248647c0-9a0d-4166-9544-6911aa6b5b4c)
 
 <!---
 mr309/mr309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
